@@ -11,7 +11,7 @@
       {
         title: "Song 3",
         url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/Make%20It%20Right%20.mp3"
-      }
+      },
       {
         title: "Song 4",
         url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/What%20is%20Love.mp3"
