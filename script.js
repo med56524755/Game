@@ -1,47 +1,46 @@
 
-    const songs = [
-      {
-        title: "Song 1",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/OMG.mp3"
-      },
-      {
-        title: "Song 2",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/Talk%20that%20Talk.mp3"
-      },
-      {
-        title: "Song 3",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/Make%20It%20Right%20.mp3"
-      },
-      {
-        title: "Song 4",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/What%20is%20Love.mp3"
-      },
-      {
-        title: "Song 5",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/white%20swan.mp3"
-      },
-      {
-        title: "Song 6",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/TT.mp3"
-      },
-      {
-        title: "Song 7",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/Hype%20Boy.mp3"
-      },
-      {
-        title: "Song 8",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/Dreams%20Come%20True.mp3"
-      },
-      {
-        title: "Song 9",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/dua%20lipa.mp3"
-      },
-      {
-        title: "Song 10",
-        url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/LILAC.mp3"
-      }
-    ];
-    
+const songs = [
+    {
+      title: "Song 1",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/OMG.mp3"
+    },
+    {
+      title: "Song 2",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/Talk%20that%20Talk.mp3"
+    },
+    {
+      title: "Song 3",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/Make%20It%20Right%20.mp3"
+    },
+    {
+      title: "Song 4",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/What%20is%20Love.mp3"
+    },
+    {
+      title: "Song 5",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/white%20swan.mp3"
+    },
+    {
+      title: "Song 6",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/TT.mp3"
+    },
+    {
+      title: "Song 7",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/Hype%20Boy.mp3"
+    },
+    {
+      title: "Song 8",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/Dreams%20Come%20True.mp3"
+    },
+    {
+      title: "Song 9",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/dua%20lipa.mp3"
+    },
+    {
+      title: "Song 10",
+      url: "https://medmedmedmedmed.000webhostapp.com/MUSIC/LILAC.mp3"
+    }
+  ];
 
    
 
